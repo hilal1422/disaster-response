@@ -26,6 +26,4 @@ o	To run ML pipeline that trains classifier and saves python models/train_classi
 2.	Run the following command in the app's directory to run your web app. python run.py
 3.	Go to http://0.0.0.0:3001/
 
-
-### Data observations
-As can be seen from test data visualization most of the classes (categories) are highly imbalanced. This affects model F1 prediction score. One using this project should take this into consideration and apply measures like synthetic data generation, model selection and parameters fine-tuning, etc.     
+     
