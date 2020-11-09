@@ -15,8 +15,11 @@ The web app also displays visualizations of the data.
 
 ### Technologies Used
 •	Python
+
      o	Libraries: pandas, sklearn, sqlite3, sqlalchemy, nltk, plotly, flask
+     
 •	HTML
+
     o	Bootstrap
 
 ### Run
